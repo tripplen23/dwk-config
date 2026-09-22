@@ -9,13 +9,13 @@ patches:
 images:
 - name: PROJECT/BROADCASTER
   newName: europe-north1-docker.pkg.dev/dwk-gke-506208/my-repository/broadcaster
-  newTag: 99404ec0570a370fe5bbf82be0be077bff6a12d8
+  newTag: e07e03530ccca7b8dd624927c8ba645000ac10fb
 - name: PROJECT/CHAT-SINK
   newName: europe-north1-docker.pkg.dev/dwk-gke-506208/my-repository/chat-sink
-  newTag: 99404ec0570a370fe5bbf82be0be077bff6a12d8
+  newTag: e07e03530ccca7b8dd624927c8ba645000ac10fb
 - name: PROJECT/TODO-APP
   newName: europe-north1-docker.pkg.dev/dwk-gke-506208/my-repository/todo-app
-  newTag: 99404ec0570a370fe5bbf82be0be077bff6a12d8
+  newTag: e07e03530ccca7b8dd624927c8ba645000ac10fb
 - name: PROJECT/TODO-BACKEND
   newName: europe-north1-docker.pkg.dev/dwk-gke-506208/my-repository/todo-backend
-  newTag: 99404ec0570a370fe5bbf82be0be077bff6a12d8
+  newTag: e07e03530ccca7b8dd624927c8ba645000ac10fb
